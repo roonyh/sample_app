@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<% provide(:title, 'About') %>
 <html>
 <head>
   <title>SampleApp</title>
